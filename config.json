@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "皮喆",
+		"description": "Author:SimonAKing,Category:Personal Blog",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "皮喆",
+		"subtitle": "皮吉吉大王",
+		"enter": "开始",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "皮喆",
+		"signature": "Code & Cut",
+		"avatar": {
+			"link": "assets/pi.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "https://blog.pizhecode.dpdns.org",
+				"icon": "bokeyuan",
+				"text": "Blog"
+			},
+			"second": {
+				"href": "https://about.pizhecode.dpdns.org/",
+				"icon": "xiaolian",
+				"text": "About"
+			},
+			"third": {
+				"href": "pizhecode@outlook.com",
+				"icon": "email",
+				"text": "Email"
+			},
+			"fourth": {
+				"href": "https://github.com/pizhecode",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
