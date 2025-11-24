@@ -5,14 +5,14 @@
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "皮喆",
-		"subtitle": "皮吉吉大王",
+		"title": "张雅歌",
+		"subtitle": "都怪你！都怪你！都怪你！",
 		"enter": "开始",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "皮喆",
+		"name": "张雅歌",
 		"signature": "Code & Cut",
 		"avatar": {
 			"link": "assets/pi.jpg",
